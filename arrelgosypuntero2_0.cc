@@ -3,7 +3,7 @@
 int main() {
 
     // Declarar un arreglo tipo entero 
-    int arreglo_num[3] = {1, 2, 3};
+    /*int arreglo_num[3] = {1, 2, 3};
     int *ptr = arreglo_num;
 
     std::cout << "Peso de un dato int: " << sizeof(int) << " bytes\n";
@@ -12,7 +12,7 @@ int main() {
     std::cout << "Dir de memoria arreglo_num[0]: " << arreglo_num << "\nValor: "<< *(arreglo_num) << "\n";
     std::cout << "Dir de memoria arreglo_num[1]: " << &arreglo_num[1] << "\nValor: " << *(arreglo_num) + 1 <<"\n"; 
 
-    std::cout << "Dir de memoria arreglo_num[2]: " << ptr+2 << "\nValor: "<< *(ptr + 2) << "\n";
+    std::cout << "Dir de memoria arreglo_num[2]: " << ptr+2 << "\nValor: "<< *(ptr + 2) << "\n";*/
 
     int array_num[] = {10, 20, 30, 40, 50};
 
